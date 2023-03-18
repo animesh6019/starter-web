@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-#Adding some line for stash example, which is completed.
+#After stash.
 # TEAM
 
     <name> -- <role> -- <twitter>
