@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-#Stash with branch
+#Tag example and comparision
 # TEAM
 
     <name> -- <role> -- <twitter>
